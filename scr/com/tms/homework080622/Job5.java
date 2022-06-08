@@ -7,6 +7,7 @@ public class Job5 {
         int second = 345;
         System.out.println("int minutes= " + (345 / 60));
         System.out.println("double minutes=" + (345 * 1.0 / 60));
+
     }
 
 }
