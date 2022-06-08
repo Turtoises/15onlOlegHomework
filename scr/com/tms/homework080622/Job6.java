@@ -15,4 +15,5 @@ public class Job6 {
         return (char) (letterRus + indexNextLetter);
     }
 
+
 }
