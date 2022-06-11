@@ -13,6 +13,7 @@ public class Job6 {
     public static char getNextLetter(char letterRus, int indexNextLetter) {
 
         return (char) (letterRus + indexNextLetter);
+
     }
 
 
